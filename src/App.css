@@ -14,7 +14,7 @@
 }
 
 .App-header {
-  background-color: #282c34;
+  background-color: #53535b;
   min-height: 120vh;
   display: flex;
   flex-direction: column;
@@ -25,7 +25,7 @@
 }
 
 p {
-  background-color: #282c34;
+  background-color: #53535b;
   margin-left: 10px;
   margin-right: 10px;
   min-height: 120vh;
@@ -38,7 +38,7 @@ p {
 }
 
 .App-footer {
-  background-color: #282c34;
+  background-color: #53535b;
   min-height: 100vh;
   display: flex;
   flex-direction: row;
@@ -64,5 +64,6 @@ p {
 code {
   display: block;
   white-space: pre-wrap;
-  color: grey;
+  color: darkgray;
 }
+
